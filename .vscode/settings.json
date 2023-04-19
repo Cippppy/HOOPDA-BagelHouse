@@ -1,0 +1,13 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "h:\\HOOPDA\\javafx-sdk-19.0.2\\lib\\javafx.base.jar",
+        "h:\\HOOPDA\\javafx-sdk-19.0.2\\lib\\javafx.controls.jar",
+        "h:\\HOOPDA\\javafx-sdk-19.0.2\\lib\\javafx.fxml.jar",
+        "h:\\HOOPDA\\javafx-sdk-19.0.2\\lib\\javafx.graphics.jar",
+        "h:\\HOOPDA\\javafx-sdk-19.0.2\\lib\\javafx.media.jar",
+        "h:\\HOOPDA\\javafx-sdk-19.0.2\\lib\\javafx.swing.jar",
+        "h:\\HOOPDA\\javafx-sdk-19.0.2\\lib\\javafx.web.jar",
+        "h:\\HOOPDA\\javafx-sdk-19.0.2\\lib\\javafx-swt.jar"
+    ]
+}
